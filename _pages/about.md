@@ -20,9 +20,9 @@ I am a soccer fanatic. I am a member of ZJU Soccer Varsity and a certificated so
 
 I also like play games, like CS2.
 
-My publications
+<!-- My publications
 ======
-Gao, Linlu & Yin, Mingrui & Xiao, Fuyuan & Cao, Zehong. (2023). A Complex Belief Jensen-Shannon Divergence in Complex Evidence Theory for Decision-Making. 299-304. 10.1109/ICUS58632.2023.10318369. 
+Gao, Linlu & Yin, Mingrui & Xiao, Fuyuan & Cao, Zehong. (2023). A Complex Belief Jensen-Shannon Divergence in Complex Evidence Theory for Decision-Making. 299-304. 10.1109/ICUS58632.2023.10318369. -->
 
 Recent Events
 ------
