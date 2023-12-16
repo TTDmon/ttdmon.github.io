@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Mingrui Yin 尹铭睿, you can just call me Jim! I am now an undergraduate student majored in Industrial Design at College of Computer Science and Technology in Zhejiang University, China. **This is a website still under construction from template...**
+Hello! My name is Mingrui Yin 尹铭睿, you can just call me Jim! I am now an undergraduate student majored in Industrial Design at College of Computer Science and Technology in Zhejiang University, China. 
+
+**This is a website still under construction from template...**
 
 <!-- My academic interests
 ======
