@@ -10,9 +10,9 @@ redirect_from:
 
 Hello! My name is Mingrui Yin 尹铭睿, you can just call me Jim! I am now an undergraduate student majored in Industrial Design at College of Computer Science and Technology in Zhejiang University, China. This is a website still under construction from template...
 
-My academic interests
+<!-- My academic interests
 ======
-I am interested in various areas such as computer vision, graphics, IoT, XR, and HCI.
+I am interested in various areas such as computer vision, graphics, IoT, XR, and HCI.-->
 
 My hobbies
 ======
