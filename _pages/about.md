@@ -20,7 +20,7 @@ My hobbies
 ======
 I am a soccer fanatic. I am a member of ZJU Soccer Varsity and a certificated soccer coach of Zhejiang Province.
 
-I also like play games, like CS2.
+I also like play games, like CS2. Why TTDmon? It originates from one music album named Total Domination hhhh
 
 <!-- My publications
 ======
